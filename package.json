@@ -1,0 +1,6 @@
+{
+  "name": "vertragcheck-backend",
+  "version": "1.0.0",
+  "description": "VertragCheck API Backend",
+  "private": true
+}
